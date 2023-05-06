@@ -1,8 +1,8 @@
 # Student Names 
-Henry Forsyth
+Russell Stewart
 
 # Summary
-This is a testing doc to see if I can pull it into the website
+Using an old pair of wireless earbuds to add Bluetooth capability to a 2008 Honda Civic.
 
 # Date Started
-11-16-2000
+May 6, 2023
