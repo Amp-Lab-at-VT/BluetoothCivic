@@ -9,7 +9,7 @@ rstewart02@vt.edu
 {% include youtube.html video="miltuOLWDFQ" %}
 
 ## Mentor
-Not assigned yet
+Tyler Wells
 
 ## Current Status
 Awaiting approval
